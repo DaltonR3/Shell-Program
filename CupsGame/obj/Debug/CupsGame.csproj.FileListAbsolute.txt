@@ -1,0 +1,6 @@
+c:\users\dalton.riera\documents\visual studio 2017\Projects\CupsGame_Solution\CupsGame\bin\Debug\CupsGame.exe.config
+c:\users\dalton.riera\documents\visual studio 2017\Projects\CupsGame_Solution\CupsGame\bin\Debug\CupsGame.exe
+c:\users\dalton.riera\documents\visual studio 2017\Projects\CupsGame_Solution\CupsGame\bin\Debug\CupsGame.pdb
+c:\users\dalton.riera\documents\visual studio 2017\Projects\CupsGame_Solution\CupsGame\obj\Debug\CupsGame.csprojResolveAssemblyReference.cache
+c:\users\dalton.riera\documents\visual studio 2017\Projects\CupsGame_Solution\CupsGame\obj\Debug\CupsGame.exe
+c:\users\dalton.riera\documents\visual studio 2017\Projects\CupsGame_Solution\CupsGame\obj\Debug\CupsGame.pdb
